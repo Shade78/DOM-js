@@ -52,9 +52,9 @@
 
 // Создать 3 карточки авто, используя функцию generateAutoCard
 const carsList = [
-    {brand: 'Tesla', year: 2015, color: 'Красный'},
-    {brand: 'Lexus', year: 2016, color: 'Серебристый'},
-    {brand: 'Nissan', year: 2012, color: 'Черный'},
+    {brand: 'Tesla', year: 2015, color: 'красный'},
+    {brand: 'BMW', year: 2019, color: 'синий'},
+    {brand: 'Reno', year: 2020, color: 'серебряный'},
 ]
 
 // Поместить эти 3 карточки внутрь DIV с классом autos
