@@ -1,0 +1,14 @@
+.autos {
+    display: flex;
+    padding: 10px;
+    gap: 2em;
+}
+.autoCard {
+    background-color: aqua;
+    padding: 5px 15px;
+}
+
+button {
+    background-color: black;
+    color: wheat;
+}
